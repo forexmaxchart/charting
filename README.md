@@ -1,0 +1,2 @@
+# charting
+We are providing NSE, MCX, NCDEX, CURRENCY, NIFTY LIVE DATA FEED IN MT4. Forex max chart is a absolutely free, and share market live nifty chart custom indicators, and trading stock software nifty live chart and all commodity chart MCX, NCDEX and INR which makes their knowledge and new experience invaluable for best trading. We are No1 of the best MT4 data providers in Indian feed, provide all Indian segments in mt4 with Forex max chart.
